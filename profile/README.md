@@ -1,8 +1,8 @@
 ## 🔗Project Link
 
-Git Hub : https://github.com/zae-hyeong/TodayIm
+Git Hub : [Github](https://github.com/zae-hyeong/TodayIm)
 
-Design : https://www.figma.com/design/iKXY06DEeEb3OIMeElqyFG/%EC%96%B8%EC%A0%9C%EB%AA%A8%EC%9E%84-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&t=2FEmKJyCuZDarAPM-1
+Design : [Figma](https://www.figma.com/design/iKXY06DEeEb3OIMeElqyFG/%EC%96%B8%EC%A0%9C%EB%AA%A8%EC%9E%84-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&t=2FEmKJyCuZDarAPM-1)
 
 관련 공부 기록 : [종합설계 1](https://www.notion.so/1-a1d1715900d64f448c43fb491cc58e01?pvs=21) 
 
@@ -55,23 +55,24 @@ Design : https://www.figma.com/design/iKXY06DEeEb3OIMeElqyFG/%EC%96%B8%EC%A0%9C%
 | RDS | Postman |  |  | PrimeDatePicker |
 - **시연영상**
     
-    https://www.youtube.com/watch?v=CTxixew4kA4
+[![Video Label](http://img.youtube.com/vi/CTxixew4kA4/0.jpg)](https://youtu.be/CTxixew4kA4)
     
 - **Activity flow**
     
-    ![image02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4f4a1d9d-f6a7-49f1-9179-d3c151d0ec0e/bc49c180-9357-413f-85c7-af3cbdaf9e83/image02.png)
+![image02](https://github.com/WhenWeMoim/.github/assets/58213558/0aaeb3a0-39ba-4711-a461-8b47fb5ee574)
+
     
 - **데이터 통신구조**
     
-    ![image03.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4f4a1d9d-f6a7-49f1-9179-d3c151d0ec0e/02c6bf62-0ea9-42c1-8d59-a57742cbff60/image03.png)
+![image03](https://github.com/WhenWeMoim/.github/assets/58213558/d0188a00-eef4-4ad1-ac61-5fc001f1ef79)
     
-- 백엔드 ERD
+- **백엔드 ERD**
+
+![image01](https://github.com/WhenWeMoim/.github/assets/58213558/52f4d9b6-2f55-4729-b612-317331fbd94e)
     
-    ![image01.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4f4a1d9d-f6a7-49f1-9179-d3c151d0ec0e/d51e0f61-37c5-4ace-9f19-4ec9b934119a/image01.png)
+- **데이터 API**
     
-- 데이터 API
-    
-    ![image04.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4f4a1d9d-f6a7-49f1-9179-d3c151d0ec0e/ff293810-c0c2-49e9-b91a-3d2d26fd4988/image04.png)
+![image04](https://github.com/WhenWeMoim/.github/assets/58213558/7d9ae97b-c6f0-4317-b57b-85d7c7bc1cd9)
     
 
 ## 🤷‍♂️Project Result & Impression
